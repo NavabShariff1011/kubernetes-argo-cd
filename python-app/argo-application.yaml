@@ -11,4 +11,4 @@ spec:
     path: python-app
   destination:
     server: https://kubernetes.default.svc
-    namespace: default
+    namespace: new
