@@ -23,7 +23,7 @@ spec:
         - name: MYSQL_USER
           value: navab
         - name: MYSQL_PASSWORD
-          value: admin
+          value: admin123
         volumeMounts:
         - name: mysql-storage
           mountPath: /var/lib/mysql
